@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfinalstnp"]=self["webpackChunkfinalstnp"]||[]).push([[594],{2901:function(n,t,u){u.r(t),u.d(t,{default:function(){return f}});var a=u(6768);const s={class:"about"};function e(n,t){return(0,a.uX)(),(0,a.CE)("div",s,t[0]||(t[0]=[(0,a.Lk)("h1",null,"This is an about page",-1)]))}var r=u(1241);const c={},i=(0,r.A)(c,[["render",e]]);var f=i}}]);
+//# sourceMappingURL=about.dabfcd91.js.map
